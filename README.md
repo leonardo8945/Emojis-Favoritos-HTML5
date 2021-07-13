@@ -1,2 +1,1 @@
-# EmojisFavoritosHTML5
- 
+# Emojis Favoritos em HTML5
